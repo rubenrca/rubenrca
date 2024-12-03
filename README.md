@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rubenrca
 - 👀 I’m interested in learning Python and GIT
 - 🌱 I’m currently learning Python and GIT
-- 📫 How to reach me "ruben.rca@outlook.com"
+- 📫 How to reach me "ruben.collao.a@gmail.com"
 
 <!---
 rubenrca/rubenrca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
