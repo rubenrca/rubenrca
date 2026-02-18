@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @rubenrca
-- 👀 I’m interested in learning Python and GIT
-- 🌱 I’m currently learning Python and GIT
-- 📫 How to reach me "ruben.collao.a@gmail.com"
+### Rubén Collao
 
+Founder @ integrIA — Desarrollo web y software para pymes chilenas.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · MySQL · PostgreSQL  
+**Also:** Node.js · Vite
+
+📍 V region, chile · 📫 ruben.collao.aguilera@gmail.com
 <!---
 rubenrca/rubenrca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
