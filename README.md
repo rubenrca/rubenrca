@@ -1,7 +1,6 @@
 ### Rubén Collao
 
-Founder @ integrIA — Desarrollo web y software para pymes chilenas.
-
+Founder @ integrIA — Desarrollo web y software
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · MySQL · PostgreSQL  
 **Also:** Node.js · Vite
 
